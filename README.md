@@ -11,9 +11,13 @@ Combination of two AI systems in one repository: 1. **Document assistant** with 
 **Ассистент (assistant.py):**
 
 Чтение 10+ форматов: PDF, DOCX, Excel, CSV, JSON
+
 Обучение GPT-модели на ваших документах
+
 Генерация контента: ответы, тексты, аналитика
+
 Локальное хранение данных
+
 Графический интерфейс с историей диалога
 
 **Банковский бот (telegram_bot.py):**
